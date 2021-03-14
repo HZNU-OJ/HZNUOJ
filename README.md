@@ -1,1 +1,1 @@
-# HZNUOJ
+# HZNU Online Judge

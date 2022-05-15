@@ -1,1 +1,1 @@
-# HZNU Online Judge
+# JudgeQ

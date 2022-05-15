@@ -1,6 +1,0 @@
-[submodule "HZNUOJ-V3-WebApp"]
-	path = HZNUOJ-V3-WebApp
-	url = https://github.com/HZNU-OJ/HZNUOJ-V3-WebApp.git
-[submodule "HZNUOJ-V3-API"]
-	path = HZNUOJ-V3-API
-	url = https://github.com/HZNU-OJ/HZNUOJ-V3-API.git
